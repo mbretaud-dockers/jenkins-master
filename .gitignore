@@ -1,2 +1,3 @@
 *.tmp
 jenkins-war/*
+maven-metadata.xml
